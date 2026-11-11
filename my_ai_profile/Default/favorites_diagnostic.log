@@ -17,3 +17,16 @@
 2026-11-11 08:11:03.717: [INFO] BookmarkNodeAdded, ABU: 0
 2026-11-11 08:11:03.866: [INFO] Sync initialization duration: 2118ms
 2026-11-11 08:11:31.880: [INFO] BookmarksSnapshot Shutdown total=1 bar=1 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-11 10:00:17.584: [INFO] CurrentProfilePath: C:\myhomeAI\my_ai_profile\Default
+2026-11-11 10:00:17.584: [INFO] Profiles total count: 1
+2026-11-11 10:00:17.584: [INFO] Profile: name=Личный path=C:\myhomeAI\my_ai_profile\Default lastActive=2026-11-11T10:00:17.563Z
+2026-11-11 10:00:17.584: [INFO] LastUsedProfileDir: C:\myhomeAI\my_ai_profile\Default
+2026-11-11 10:00:17.584: [INFO] MostRecentlyActiveProfile: name=Личный path=C:\myhomeAI\my_ai_profile\Default lastActive=2026-11-11T10:00:17.563Z
+2026-11-11 10:00:17.584: [INFO] OnDoneLoading sync enabled: 1
+2026-11-11 10:00:17.584: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-11 10:00:17.584: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-11 10:00:17.584: [INFO] BookmarksSnapshot Startup total=1 bar=1 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-11 10:00:17.632: [INFO] Sync initialization duration: 45ms
+2026-11-11 10:01:43.053: [INFO] VisibilityChanged: 0
+2026-11-11 10:01:49.271: [INFO] VisibilityChanged: 0
+2026-11-11 10:07:06.490: [INFO] BookmarksSnapshot Shutdown total=1 bar=1 other=0 mobile=0 showBar=0 showBarNTP=1

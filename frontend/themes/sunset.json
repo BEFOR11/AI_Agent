@@ -1,0 +1,17 @@
+{
+  "name": "Закат",
+  "order": 6,
+  "vars": {
+    "--bg": "#15101a",
+    "--side": "#1a1320",
+    "--surface": "#211828",
+    "--raised": "#2a1f33",
+    "--line": "#35283f",
+    "--text": "#f3e9ef",
+    "--muted": "#b199a8",
+    "--bubble": "#34213a",
+    "--accent": "#ff8a65",
+    "--accent2": "#ff5fa2",
+    "--code": "#100b14"
+  }
+}

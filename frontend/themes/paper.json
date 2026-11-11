@@ -1,0 +1,17 @@
+{
+  "name": "Бумага",
+  "order": 8,
+  "vars": {
+    "--bg": "#f5efe3",
+    "--side": "#ece4d3",
+    "--surface": "#fbf7ee",
+    "--raised": "#fffdf8",
+    "--line": "#ddd2bb",
+    "--text": "#2b2418",
+    "--muted": "#7a6d56",
+    "--bubble": "#e9dfc9",
+    "--accent": "#b4632a",
+    "--accent2": "#8a6d3b",
+    "--code": "#efe6d3"
+  }
+}

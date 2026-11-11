@@ -1,0 +1,17 @@
+{
+  "name": "Чёрный",
+  "order": 3,
+  "vars": {
+    "--bg": "#000000",
+    "--side": "#050505",
+    "--surface": "#0d0d0d",
+    "--raised": "#151515",
+    "--line": "#1f1f1f",
+    "--text": "#f2f2f2",
+    "--muted": "#8c8c8c",
+    "--bubble": "#1a1a1a",
+    "--accent": "#7cf0c1",
+    "--accent2": "#7ca7ff",
+    "--code": "#060606"
+  }
+}

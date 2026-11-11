@@ -1,0 +1,17 @@
+{
+  "name": "Океан",
+  "order": 4,
+  "vars": {
+    "--bg": "#0a1420",
+    "--side": "#0d1a29",
+    "--surface": "#112033",
+    "--raised": "#172a40",
+    "--line": "#1f344d",
+    "--text": "#e6f0fa",
+    "--muted": "#86a0ba",
+    "--bubble": "#17304a",
+    "--accent": "#4cc9f0",
+    "--accent2": "#4895ef",
+    "--code": "#07101a"
+  }
+}

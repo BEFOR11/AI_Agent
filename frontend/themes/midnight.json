@@ -1,0 +1,17 @@
+{
+  "name": "Полночь",
+  "order": 1,
+  "vars": {
+    "--bg": "#0e1014",
+    "--side": "#12151b",
+    "--surface": "#171b23",
+    "--raised": "#1e232d",
+    "--line": "#262c38",
+    "--text": "#e8eaf0",
+    "--muted": "#8a93a6",
+    "--bubble": "#222838",
+    "--accent": "#8b9bff",
+    "--accent2": "#c58bff",
+    "--code": "#0b0d11"
+  }
+}
