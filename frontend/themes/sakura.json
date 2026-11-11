@@ -1,0 +1,17 @@
+{
+  "name": "Сакура",
+  "order": 9,
+  "vars": {
+    "--bg": "#fbf4f6",
+    "--side": "#f5e8ed",
+    "--surface": "#ffffff",
+    "--raised": "#fffafc",
+    "--line": "#ecd6df",
+    "--text": "#3a2430",
+    "--muted": "#8d6b7b",
+    "--bubble": "#f5dde6",
+    "--accent": "#e0618f",
+    "--accent2": "#b26be0",
+    "--code": "#f7ebf0"
+  }
+}

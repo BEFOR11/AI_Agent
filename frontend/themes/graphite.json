@@ -1,0 +1,17 @@
+{
+  "name": "Графит",
+  "order": 2,
+  "vars": {
+    "--bg": "#121212",
+    "--side": "#181818",
+    "--surface": "#1e1e1e",
+    "--raised": "#262626",
+    "--line": "#2f2f2f",
+    "--text": "#ececec",
+    "--muted": "#9a9a9a",
+    "--bubble": "#2a2a2a",
+    "--accent": "#4fd1c5",
+    "--accent2": "#63b3ed",
+    "--code": "#0d0d0d"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Лес",
+  "order": 5,
+  "vars": {
+    "--bg": "#0d1411",
+    "--side": "#111b16",
+    "--surface": "#16211b",
+    "--raised": "#1d2c24",
+    "--line": "#25362c",
+    "--text": "#e7f0ea",
+    "--muted": "#8aa595",
+    "--bubble": "#1f3328",
+    "--accent": "#6fd08c",
+    "--accent2": "#b5e48c",
+    "--code": "#0a100d"
+  }
+}

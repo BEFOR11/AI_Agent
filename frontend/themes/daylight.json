@@ -1,0 +1,17 @@
+{
+  "name": "День",
+  "order": 7,
+  "vars": {
+    "--bg": "#f6f7fa",
+    "--side": "#eceef3",
+    "--surface": "#ffffff",
+    "--raised": "#ffffff",
+    "--line": "#dfe2ea",
+    "--text": "#1b1f29",
+    "--muted": "#667085",
+    "--bubble": "#e6e9f4",
+    "--accent": "#5b6cf0",
+    "--accent2": "#a55bf0",
+    "--code": "#f1f3f8"
+  }
+}

@@ -1,0 +1,18 @@
+2026-11-11 17:49:49.005: [INFO] CurrentProfilePath: C:\myhomeAI\data\profile\Default
+2026-11-11 17:49:49.005: [INFO] Profiles total count: 1
+2026-11-11 17:49:49.005: [INFO] Profile: name=Профиль 1 path=C:\myhomeAI\data\profile\Default lastActive=2026-11-11T17:49:48.992Z
+2026-11-11 17:49:49.005: [INFO] LastUsedProfileDir: C:\myhomeAI\data\profile\Default
+2026-11-11 17:49:49.005: [INFO] MostRecentlyActiveProfile: name=Профиль 1 path=C:\myhomeAI\data\profile\Default lastActive=2026-11-11T17:49:48.992Z
+2026-11-11 17:49:49.005: [INFO] OnDoneLoading sync enabled: 0
+2026-11-11 17:49:49.005: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-11 17:49:49.005: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-11 17:49:49.005: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-11 17:49:49.045: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-11-11 17:49:50.650: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-11-11 17:49:50.651: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-11-11 17:49:50.652: [INFO] Primary account changed.
+2026-11-11 17:49:50.652: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-11-11 17:49:50.657: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-11-11 17:49:55.117: [INFO] BookmarkNodeAdded, ABU: 0
+2026-11-11 17:49:55.741: [INFO] Sync initialization duration: 5013ms
+2026-11-11 17:50:51.401: [INFO] BookmarksSnapshot Shutdown total=1 bar=1 other=0 mobile=0 showBar=0 showBarNTP=1

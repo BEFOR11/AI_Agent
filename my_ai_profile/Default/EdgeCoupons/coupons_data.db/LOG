@@ -1,5 +1,6 @@
-2026/11/11-11:11:02.462 463c Creating DB C:\myhomeAI\my_ai_profile\Default\EdgeCoupons/coupons_data.db since it was missing.
-2026/11/11-11:11:02.544 463c Reusing MANIFEST C:\myhomeAI\my_ai_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/11/11-11:11:02.686 3708 Level-0 table #5: started
-2026/11/11-11:11:02.688 3708 Level-0 table #5: 683273 bytes OK
-2026/11/11-11:11:02.689 3708 Delete type=0 #3
+2026/11/11-13:00:19.563 1c5c Reusing MANIFEST C:\myhomeAI\my_ai_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/11/11-13:00:19.564 1c5c Recovering log #4
+2026/11/11-13:00:19.564 1c5c Reusing old log C:\myhomeAI\my_ai_profile\Default\EdgeCoupons/coupons_data.db/000004.log 
+2026/11/11-13:00:19.592 3b34 Level-0 table #8: started
+2026/11/11-13:00:19.595 3b34 Level-0 table #8: 683455 bytes OK
+2026/11/11-13:00:19.597 3b34 Delete type=0 #4

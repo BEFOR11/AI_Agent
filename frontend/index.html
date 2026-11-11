@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Мой ИИ</title>
+<link rel="stylesheet" href="css/style.css">
+<script>window.APP={token:"__TOKEN__",model:"__MODEL__"};</script>
+</head>
+<body>
+<div class="app" id="app">
+  <aside class="side">
+    <div class="brand"><div class="logo">✦</div>Мой ИИ</div>
+    <button class="new" id="newChat"><span>＋</span> Новый чат</button>
+    <div class="list" id="list"></div>
+    <div class="side-foot">Работает локально на вашем компьютере</div>
+  </aside>
+  <section class="main">
+    <div class="top">
+      <button class="icon" id="toggle" title="Боковая панель">☰</button>
+      <select class="model" id="model" title="Модель"></select>
+      <span class="spacer"></span>
+      <span class="status" id="status"></span>
+      <button class="icon" id="gear" title="Настройки и темы">⚙</button>
+    </div>
+    <div class="scroll" id="scroll"><div class="wrap" id="msgs"></div></div>
+    <div class="composer">
+      <div class="box">
+        <textarea id="input" rows="1" placeholder="Напишите сообщение…" autofocus></textarea>
+        <button class="send" id="send" title="Отправить">↑</button>
+      </div>
+      <div class="hint">Enter — отправить, Shift+Enter — новая строка</div>
+    </div>
+  </section>
+</div>
+
+<dialog id="dlg" class="settings">
+  <div class="dlg-head">
+    <h3>Настройки</h3>
+    <button class="icon" id="dlgClose" title="Закрыть">✕</button>
+  </div>
+  <nav class="tabs" id="tabs">
+    <button data-tab="theme" class="on">Темы</button>
+    <button data-tab="colors">Цвета</button>
+    <button data-tab="view">Вид</button>
+    <button data-tab="model">Модель</button>
+  </nav>
+  <div class="tabbody">
+    <section class="tab on" id="tab-theme">
+      <p class="note">Выберите тему. Свои цвета можно настроить на вкладке «Цвета».</p>
+      <div class="swatches" id="swatches"></div>
+    </section>
+    <section class="tab" id="tab-colors">
+      <p class="note">Цвета меняются сразу, окно перерисовывается на лету. Понравившийся вариант сохраните как свою тему.</p>
+      <div class="colors" id="colors"></div>
+      <div class="row left">
+        <button class="btn primary" id="saveTheme">Сохранить как тему…</button>
+        <button class="btn" id="resetColors">Сбросить правки</button>
+        <button class="btn danger" id="delTheme" hidden>Удалить эту тему</button>
+      </div>
+    </section>
+    <section class="tab" id="tab-view">
+      <div class="field"><label for="fontSel">Шрифт</label><select id="fontSel"></select></div>
+      <div class="field"><label for="fontCustom">Свой шрифт</label><input id="fontCustom" type="text" placeholder="Название установленного шрифта, например Calibri"></div>
+      <div class="field"><label for="fsRange">Размер текста <b id="fsVal"></b></label><input id="fsRange" type="range" min="13" max="20" step="1"></div>
+      <div class="field"><label for="wRange">Ширина чата <b id="wVal"></b></label><input id="wRange" type="range" min="560" max="1100" step="20"></div>
+      <div class="field"><label for="rRange">Скругление <b id="rVal"></b></label><input id="rRange" type="range" min="6" max="30" step="1"></div>
+      <label class="check"><input id="glow" type="checkbox"> Мягкое свечение фона</label>
+      <div class="row left"><button class="btn" id="resetView">Вернуть вид по умолчанию</button></div>
+    </section>
+    <section class="tab" id="tab-model">
+      <div class="field">
+        <label for="sys">Инструкция для модели</label>
+        <textarea id="sys" placeholder="Например: Отвечай кратко и по-русски."></textarea>
+      </div>
+      <p class="note">Эта подсказка добавляется в начало каждого чата. Можно оставить пустой.</p>
+    </section>
+  </div>
+</dialog>
+
+<script src="js/app.js"></script>
+</body>
+</html>

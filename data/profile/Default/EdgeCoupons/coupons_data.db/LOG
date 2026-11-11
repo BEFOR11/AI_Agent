@@ -1,0 +1,5 @@
+2026/11/11-20:49:51.016 1ab8 Creating DB C:\myhomeAI\data\profile\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/11/11-20:49:51.022 1ab8 Reusing MANIFEST C:\myhomeAI\data\profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/11/11-20:49:51.128 544 Level-0 table #5: started
+2026/11/11-20:49:51.131 544 Level-0 table #5: 683273 bytes OK
+2026/11/11-20:49:51.132 544 Delete type=0 #3
